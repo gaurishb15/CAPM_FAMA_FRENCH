@@ -5,10 +5,6 @@
 - In simple words, the idea behind CAPM is that investors must compensate in two ways: time value of money and risk.
 - It establishes a linear relationship between the asset's expected return and its beta.
 
-
-# CAPM equation : 
-![](https://media.licdn.com/dms/image/C5612AQFfwtMYN3WgqQ/article-inline_image-shrink_1000_1488/0/1572607564403?e=1692835200&v=beta&t=bzcFscxH5Ye_izq9fQiru0PK0-9UGWKkzhvj2wB3YBo)
-
 # Reading Material for CAPM: 
 
 - [CAPM](https://www.investopedia.com/terms/c/capm.asp)
